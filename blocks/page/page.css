@@ -1,8 +1,8 @@
 .page {
   background-color: #2a2c2f;
   color: #fff;
-  font-family: "Inter";
-  font-weight: 400;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: normal;
 
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -15,4 +15,8 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+::selection {
+  color: #2a2c2f;
+  background: #fff;
 }

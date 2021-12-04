@@ -7,6 +7,7 @@
   text-decoration: none;
   color: #fff;
   transition: opacity 0.5s ease;
+  align-self: end;
 }
 
 .header__lang-link:hover {
@@ -15,7 +16,9 @@
 
 @media screen and (max-width: 568px) {
   .header__lang-link {
-    max-width: 24px;
-    min-height: 20px;
+    max-width: 22px;
+    max-height: 20px;
+    font-size: 18px;
+    line-height: 20px;
   }
 }
