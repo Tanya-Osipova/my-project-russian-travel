@@ -34,10 +34,12 @@
 @media screen and (max-width: 568px) {
   .place {
     max-width: 320px;
+
     min-height: 1042px;
     margin-bottom: 50px;
     grid-template-columns: auto;
     grid-row-gap: 32px;
     grid-column-gap: 0;
+    margin: auto;
   }
 }
