@@ -21,4 +21,4 @@
 
 **GIT**
 
-- [Ссылка на GitHub Pages]()
+- [Ссылка на GitHub Pages](https://tanya-osipova.github.io/my-project-russian-travel/index.html)
