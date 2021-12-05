@@ -3,27 +3,30 @@
   /* max-width: 984px; */
   width: calc(100% - 2 * 148px);
 
-  min-height: 995px;
+  /* min-height: 995px; */
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 992px) {
   .lead {
     width: calc(100% - 2 * 48px);
-    min-height: 962px;
+    /* min-height: 962px; */
+    margin-bottom: 92px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead {
     width: 100%;
-    min-height: 862px;
+    /* min-height: 862px; */
+    margin-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 600px) {
   .lead {
     width: 100%;
-    min-height: 406px;
+    /* min-height: 406px; */
+    margin-bottom: 64px;
   }
 }
