@@ -1,13 +1,13 @@
 .intro {
   margin: auto;
-  max-width: 690px;
+  max-width: 984px;
   min-height: 429px;
   margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1140px) {
   .intro {
-    /* width: calc(100% - 2 * 48px); */
+    max-width: 928px;
     max-width: 690px;
     min-height: 429px;
   }
@@ -23,7 +23,6 @@
 
 @media screen and (max-width: 568px) {
   .intro {
-    /* max-width: 288px; */
     width: calc(100% - 2 * 16px);
     min-height: 754px;
     margin-bottom: 64px;
