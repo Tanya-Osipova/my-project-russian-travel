@@ -3,8 +3,8 @@
   /* max-width: 1184px; */
   width: calc(100% - 2 * 48px);
   /* width: 100%; */
-  /* min-height: 671px; */
-  min-height: calc(100vh - 671px);
+  min-height: 671px;
+
   display: grid;
 
   grid-template-columns: repeat(4, minmax(min-content, 1fr));
