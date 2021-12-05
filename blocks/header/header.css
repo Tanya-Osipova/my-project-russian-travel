@@ -1,10 +1,9 @@
 .header {
   margin: auto;
-  /* max-width: 1184px; */
-  width: calc(100% - 2 * 48px);
-  min-height: 52px;
   margin-top: 28px;
   margin-bottom: 66px;
+  width: calc(100% - 2 * 48px);
+  min-height: 52px;
   display: flex;
 }
 
@@ -17,7 +16,6 @@
 
 @media screen and (max-width: 900px) {
   .header {
-    /* max-width: 720px; */
     width: calc(100% - 2 * 24px);
     margin-bottom: 48px;
   }
@@ -25,7 +23,6 @@
 
 @media screen and (max-width: 600px) {
   .header {
-    /* max-width: 288px; */
     width: calc(100% - 2 * 16px);
     min-height: 42px;
     margin-bottom: 48px;

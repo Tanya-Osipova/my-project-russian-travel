@@ -1,16 +1,13 @@
 .places {
   margin: auto;
-  /* max-width: 984px; */
-  width: calc(100% - 2 * 148px);
-
-  min-height: 3392px;
   margin-bottom: 92px;
+  width: calc(100% - 2 * 148px);
+  min-height: 3392px;
 }
 
 @media screen and (max-width: 1100px) {
   .places {
     width: calc(100% - 2 * 48px);
-
     min-height: 3292px;
     margin-bottom: 92px;
   }
@@ -19,7 +16,6 @@
 @media screen and (max-width: 900px) {
   .places {
     width: calc(100% - 2 * 24px);
-    /* max-width: 720px; */
     min-height: 2808px;
     margin-bottom: 90px;
   }
@@ -27,7 +23,6 @@
 
 @media screen and (max-width: 600px) {
   .places {
-    /* max-width: 320px; */
     width: 100%;
     min-height: 5177px;
     margin-bottom: 66px;

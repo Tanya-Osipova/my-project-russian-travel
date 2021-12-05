@@ -4,23 +4,3 @@
   max-height: 100%;
   object-fit: cover;
 }
-
-/* @media screen and (max-width: 1100px) {
-  .place__image {
-    max-width: 440px;
-  }
-}
-
-@media screen and (max-width: 900px) {
-  .place__image {
-    max-width: 340px;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .place__image {
-    
-
-    max-width: 100%;
-  }
-} */
