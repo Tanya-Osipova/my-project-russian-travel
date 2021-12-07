@@ -1,6 +1,5 @@
 .header__logo {
   max-width: 100%;
-  margin-right: auto;
   transition: opacity 0.5s ease;
   cursor: pointer;
 }
