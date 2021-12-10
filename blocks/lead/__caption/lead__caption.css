@@ -10,7 +10,6 @@
 
 @media screen and (max-width: 900px) {
   .lead__caption {
-    max-width: 100%;
     width: calc(100% - 2 * 24px);
     margin: auto;
   }
@@ -18,8 +17,6 @@
 
 @media screen and (max-width: 600px) {
   .lead__caption {
-    max-width: 100%;
     width: calc(100% - 2 * 16px);
-    margin: auto;
   }
 }

@@ -1,7 +1,7 @@
 .header__logo {
-  max-width: 100%;
-  transition: opacity 0.5s ease;
+  max-width: 176px;
   cursor: pointer;
+  transition: opacity 0.5s ease-in-out;
 }
 
 .header__logo:hover {

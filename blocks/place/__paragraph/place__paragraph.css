@@ -9,6 +9,10 @@
   line-height: 163%;
 }
 
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (max-width: 1100px) {
   .place__paragraph {
     max-width: 456px;
@@ -29,7 +33,5 @@
     max-width: 100%;
     width: calc(100% - 2 * 16px);
     margin: auto;
-    margin-bottom: 25px;
-    font-size: 16px;
   }
 }

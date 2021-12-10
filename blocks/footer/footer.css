@@ -1,7 +1,6 @@
 .footer {
   margin: auto;
   width: calc(100% - 2 * 48px);
-  min-height: 18px;
   margin-top: 92px;
   margin-bottom: 24px;
   display: grid;
@@ -22,11 +21,11 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .footer {
     max-width: 100%;
-    min-height: 310px;
     margin-top: 64px;
     grid-template-columns: auto;
+    grid-row-gap: 48px;
   }
 }
